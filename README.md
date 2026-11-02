@@ -10,4 +10,4 @@ python scripts/build-legal-pages.py ../lorewise-legal
 
 from the Lorewise repo root, then commit and push this repo.
 
-Regenerated 2026-09-12.
+Regenerated 2026-11-02.
